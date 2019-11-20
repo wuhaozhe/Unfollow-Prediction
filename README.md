@@ -10,7 +10,7 @@ Download link:
 
 ```
 Baidu Disk: https://pan.baidu.com/s/1ZDpgYqVN1uJyw0QhV0Xt3Q
-DropBox: 
+DropBox: https://www.dropbox.com/s/3sp7jt2740ut8qj/link_dynamic.bin?dl=0 
 ```
 
 #### 1.1 Online Social Network
