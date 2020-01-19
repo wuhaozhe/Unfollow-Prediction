@@ -9,7 +9,7 @@ This dataset contains two parts, the link dynamics file and post content file. T
 Download link:
 
 ```
-Baidu Disk: https://pan.baidu.com/s/1ZDpgYqVN1uJyw0QhV0Xt3Q
+Baidu Disk: https://pan.baidu.com/s/1ZDpgYqVN1uJyw0QhV0Xt3Q, Extraction code: 4xri
 DropBox: https://www.dropbox.com/s/3sp7jt2740ut8qj/link_dynamic.bin?dl=0 
 ```
 
