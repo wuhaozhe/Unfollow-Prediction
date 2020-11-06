@@ -10,7 +10,7 @@ Download link:
 
 ```
 Baidu Disk: https://pan.baidu.com/s/1ZDpgYqVN1uJyw0QhV0Xt3Q, Extraction code: 4xri
-DropBox: https://www.dropbox.com/s/3sp7jt2740ut8qj/link_dynamic.bin?dl=0 
+Google Drive: https://drive.google.com/file/d/17Q90cc3rlxm0pk8aIQYyFhF0u7rsGJeW/view?usp=sharing
 ```
 
 #### 1.1 Online Social Network
